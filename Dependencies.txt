@@ -1,0 +1,8 @@
+latest version of Ultralytics.
+filterpy-1.4.5 lap-0.5.12
+boxmot-13.0.13
+scikit-learn==1.2.2
+ftfy,regex,tqdm
+transformers ,torchvision
+openai CLIP
+pytesseract
